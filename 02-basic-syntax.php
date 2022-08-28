@@ -25,12 +25,12 @@
     <?php } ?>
 
     <?php
-        // PHP keywords are case insensitive
+        // PHP keywords are case-insensitive
         echo "<p>Hello, how are you? (1)</p>";
         Echo "<p>Hello, how are you? (2)</p>";
         ECHO "<p>Hello, how are you? (3)</p>";
 
-        // PHP variables are case sensitive
+        // PHP variables are case-sensitive
         $color = "red";
         echo "<p>The color is $color</p>";
         echo "<p>The color is $Color</p>"; // undefined variable
