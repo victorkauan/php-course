@@ -33,8 +33,8 @@
         // PHP variables are case-sensitive
         $color = "red";
         echo "<p>The color is $color</p>";
-        echo "<p>The color is $Color</p>"; // undefined variable
-        echo "<p>The color is $COLOR</p>"; // undefined variable
+        // echo "<p>The color is $Color</p>"; // undefined variable
+        // echo "<p>The color is $COLOR</p>"; // undefined variable
 
         // Simple comment
         # Simple comment
