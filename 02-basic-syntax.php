@@ -18,7 +18,7 @@
     <?php echo $js; ?>
 
     <?php $activated = true; ?>
-    <?php if ($activated) { ?>
+    <?php if($activated) { ?>
         <h1>It's activated!</h1>
     <?php } else { ?>
         <h1>It's not activated!</h1>
